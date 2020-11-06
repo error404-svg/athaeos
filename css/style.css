@@ -203,7 +203,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="num
     height: 40px;
     width: 100%;
     border: none;
-	  background: #F4F4F4;
+	  background: #888C8D;
     border-bottom: 2px solid #EEE;
     color: #354052;
     padding: 0px 10px;
@@ -237,11 +237,11 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 
 .main-btn {
     background: #6195FF;
-    color: #FFF;
+    color: #888C8D;
 }
 
 .white-btn {
-    background: #FFF;
+    background: #888C8D;
     color: #10161A !important;
 }
 
